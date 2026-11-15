@@ -1,4 +1,5 @@
-# Week-3-Module-1-Password-Security-Testing-with-John-the-Ripper
+# Week-3-Module-1-Password-Security-Testing-with-John-the-Ripper(JTR)
+# Week-3–Module 2: PDF Password Cracking Using NetworkWalks Tools
 Batch: B084
 Week: 3
 Module: 1
